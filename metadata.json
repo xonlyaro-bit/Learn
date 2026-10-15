@@ -1,0 +1,6 @@
+{
+  "name": "LinguaVerse - English Immersion & Mastery",
+  "description": "Master English through classic literature, songs with interactive lyrics, movies, podcasts, and the Oxford 6000 vocabulary with spaced repetition and instant Arabic translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
